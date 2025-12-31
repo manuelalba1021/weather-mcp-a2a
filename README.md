@@ -69,11 +69,14 @@ Transparency in engineering.
 *   **Connectivity**: `mcp-use` Client, `requests` library, RESTful APIs (Open-Meteo, NWS).
 
 
-### 5. 🏗️ Architecture (System Design)
+### 4. 🏗️ Architecture (System Design)
 Enterprise-grade visualization of the system.
 *   **Data Flow**: `User -> Streamlit -> Agent -> MCP Client -> Tool -> Response`.
 *   **Graphviz Charts**: Dynamically generated DAGs (Directed Acyclic Graphs) of the agent's logic.
 *   **Network Topology**: Visualizing how the Host, Client, and Server interact.
+  
+### Detailed Graph Visualization
+<img width="1119" height="523" alt="image" src="https://github.com/user-attachments/assets/c3f41704-7b5d-47ef-9222-44e29ffb2bed" />
 
 #### System Visualization
 ![Architecture Overview](assets/mcp_combined.png)
