@@ -78,12 +78,17 @@ Enterprise-grade visualization of the system.
 ### Detailed Graph Visualization
 <img width="1119" height="523" alt="image" src="https://github.com/user-attachments/assets/c3f41704-7b5d-47ef-9222-44e29ffb2bed" />
 
-#### System Visualization
-![Architecture Overview](assets/mcp_combined.png)
-*Figure 1: High-Level System Architecture bridging User, Agent, and MCP Tools.*
-
-![MCP Flow](assets/mcp_flow.png)
-*Figure 2: Detailed Data Flow from User Input to Tool Execution.*
+#### 📂 Detailed Architecture Diagrams
+- Diagram 1: Basic MCP Architecture
+  <img width="1153" height="680" alt="image" src="https://github.com/user-attachments/assets/8c5bcb5a-3812-4bd7-823b-e7b07f8a085d" />
+- Diagram 2: LLM + MCP Tool Selection Flow
+  <img width="1208" height="763" alt="image" src="https://github.com/user-attachments/assets/f5ea2378-c665-4600-9fdd-a193593d5fc4" />
+- Diagram 3: Multi-Tool MCP Server
+  <img width="1030" height="617" alt="image" src="https://github.com/user-attachments/assets/a2f36aea-068c-40eb-a021-2eec2c798350" />
+- Diagram 4: A2A Multi-Agent Architecture
+   <img width="1132" height="673" alt="image" src="https://github.com/user-attachments/assets/41df1a35-d2ed-4a9e-beeb-791e563efc16" />
+- Diagram 5: MCP vs A2A Combined System
+  <img width="1079" height="613" alt="image" src="https://github.com/user-attachments/assets/24445a45-abee-4ca1-92c9-3ab2aa23d692" />
 
 
 ### 5. 📋 System Logs (Observability)
