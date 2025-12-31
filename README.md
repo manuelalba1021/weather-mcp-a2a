@@ -37,7 +37,8 @@ Built on **Streamlit** for a reactive UI and powered by **Groq's LPU** for near-
 The application is structured into 5 professional modules, each serving a specific purpose in the Agentic workflow:
 #### Live Interface Preview
 <img width="1888" height="789" alt="image" src="https://github.com/user-attachments/assets/9c6ee46b-c429-4771-b341-bbe7ea3bc4f5" />
-*Figure: High-Definition view of the Smart Weather Dashboard.*
+
+*Figure:High-Definition view of the Smart Weather Dashboard.*
 ![Weather MCP Agent UI](assets/app_mockup.png)
 
 ### 1. 🚀 Project Demo (Interactive Core)
