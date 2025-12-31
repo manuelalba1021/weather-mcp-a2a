@@ -29,12 +29,19 @@ Built on **Streamlit** for a reactive UI and powered by **Groq's LPU** for near-
 
 The application is structured into 5 professional modules, each serving a specific purpose in the Agentic workflow:
 
+![Weather MCP Agent UI](assets/app_mockup.png)
+
 ### 1. 🚀 Project Demo (Interactive Core)
 The command center of the application.
 *   **AI Chat Interface**: Real-time conversation with the Agent.
-*   **Quick Action Grid**: One-click execution for 16+ common scenarios (e.g., "Chicago Wind", "Tokyo Forecast").
-*   **Smart City Extraction**: NLP-powered logic to understand complex queries like *"Give me a 3-day forecast for Hyderabad, India"*.
-*   **Voice Input**: Speak naturally to the agent using the integrated microphone.
+*   **Quick Action Grid**: One-click execution for 16+ common scenarios.
+*   **Smart City Extraction**: NLP-powered logic covers complex queries.
+*   **Voice Input**: Speak naturally to the agent.
+
+#### Live Demo Recording
+![App Demo](assets/demo_video.webp)
+*Figure: Real-time interaction showing Weather Checks and Smart City Extraction.*
+
 
 ### 2. ℹ️ About Project (Educational Hub)
 A detailed breakdown of the paradigm shift in AI.
