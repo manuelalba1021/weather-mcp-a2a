@@ -38,9 +38,9 @@ The command center of the application.
 *   **Smart City Extraction**: NLP-powered logic covers complex queries.
 *   **Voice Input**: Speak naturally to the agent.
 
-#### Live Demo Recording
-![App Demo](assets/demo_video.webp)
-*Figure: High-Definition real-time interaction showing Weather Checks and Smart City Extraction.*
+#### Live Interface Preview
+![App User Interface](assets/app_mockup.png)
+*Figure: High-Definition view of the Smart Weather Dashboard.*
 
 
 ### 2. ℹ️ About Project (Educational Hub)
