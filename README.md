@@ -69,12 +69,21 @@ A detailed breakdown of the paradigm shift in AI.
 *   **Evolution Timeline**: Visualizing the shift from Static LLMs -> Tool-Use Agents -> MCP Ecosystems.
 *   **Protocol Comparison**: Why MCP is superior to proprietary plugin architectures.
 *   **Interactive Simulations**: step-by-step walkthroughs of the agent's decision-making process.
+  
+<img width="1785" height="804" alt="image" src="https://github.com/user-attachments/assets/0c3216a8-c614-4e58-a31a-861757cc2dad" />
+<img width="1487" height="633" alt="image" src="https://github.com/user-attachments/assets/a13f16fd-1cbc-4846-b466-3dec020adfd4" />
+<img width="1500" height="783" alt="image" src="https://github.com/user-attachments/assets/a47d3c70-849f-4d8d-a800-fad2ee5d21db" />
+<img width="1467" height="615" alt="image" src="https://github.com/user-attachments/assets/1e20bd9c-175a-4555-b45f-1ea7a8abbd02" />
+<img width="1473" height="664" alt="image" src="https://github.com/user-attachments/assets/8a0ca20c-9e08-4a73-8a88-f7459859f23f" />
 
 ### 3. 🛠️ Tech Stack (Under the Hood)
 Transparency in engineering.
 *   **AI Core**: Llama 3.3 70B (Reasoning), LangChain (Orchestration).
 *   **Frontend**: Streamlit Async Runtime, Custom CSS theming.
 *   **Connectivity**: `mcp-use` Client, `requests` library, RESTful APIs (Open-Meteo, NWS).
+  
+<img width="1892" height="792" alt="image" src="https://github.com/user-attachments/assets/e1664228-a617-4e64-b9b4-61394b0dc526" />
+<img width="1855" height="782" alt="image" src="https://github.com/user-attachments/assets/a4950e12-8656-4bbc-b192-4e9fe7b08164" />
 
 
 ### 4. 🏗️ Architecture (System Design)
@@ -82,7 +91,10 @@ Enterprise-grade visualization of the system.
 *   **Data Flow**: `User -> Streamlit -> Agent -> MCP Client -> Tool -> Response`.
 *   **Graphviz Charts**: Dynamically generated DAGs (Directed Acyclic Graphs) of the agent's logic.
 *   **Network Topology**: Visualizing how the Host, Client, and Server interact.
-  
+<img width="1802" height="798" alt="image" src="https://github.com/user-attachments/assets/69375ee7-baa2-4934-82e1-298a18938c4b" />
+<img width="1816" height="806" alt="image" src="https://github.com/user-attachments/assets/ce3dc07c-1305-4b69-85c9-e032a91cef35" />
+
+
 ### Detailed Graph Visualization
 <img width="1119" height="523" alt="image" src="https://github.com/user-attachments/assets/c3f41704-7b5d-47ef-9222-44e29ffb2bed" />
 
@@ -104,6 +116,8 @@ Production-ready monitoring.
 *   **Real-time Event Stream**: Live tracking of every thought, tool call, and API response.
 *   **Status Codes**: Visual indicators for `SUCCESS`, `ERROR`, and `INFO`.
 *   **Audit Trails**: Downloadable JSON/TXT logs for debugging and analytics.
+<img width="1834" height="818" alt="image" src="https://github.com/user-attachments/assets/3dc62c01-2608-4fbf-882f-7d60dc54de0e" />
+<img width="1651" height="818" alt="image" src="https://github.com/user-attachments/assets/30fd0ff5-52d8-46b5-b0d4-7b3681544083" />
 
 ---
 
