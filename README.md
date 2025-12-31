@@ -40,7 +40,7 @@ The command center of the application.
 
 #### Live Demo Recording
 ![App Demo](assets/demo_video.webp)
-*Figure: Real-time interaction showing Weather Checks and Smart City Extraction.*
+*Figure: High-Definition real-time interaction showing Weather Checks and Smart City Extraction.*
 
 
 ### 2. ℹ️ About Project (Educational Hub)
